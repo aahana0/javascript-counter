@@ -1,0 +1,31 @@
+body{
+    background-color: #E9D5CA !important;
+}
+
+.col-md-6{
+    border: 2px double #363062;
+    border-radius: 20px;
+    margin-top: 150px !important;
+    padding: 20px;
+}
+
+button{
+    margin: 20px !important;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px !important;
+}
+
+.incre{
+    background-color: #363062;
+}
+.decre{
+    background-color: #4D4C7D;
+}
+.neu{
+    background-color: #827397;
+}
+
+h1{
+    color: #363062 !important;
+}
